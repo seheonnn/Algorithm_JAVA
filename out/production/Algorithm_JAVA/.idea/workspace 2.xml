@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61d76bb8-1250-41c9-a947-0a889aa2aa2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bde82cbb7d0ee56b744e203d373602a725c97c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/83e6fb3827dbe4e91d05a8a228eef75323fa39e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e70ce42d1d5d372bc2866498670373788736b37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH03/CH03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH04정렬/CH04정렬.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH05탐색/CH05탐색.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0a5786d0d26298054844eeeb60322da133a6f1a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0a5786d0d26298054844eeeb60322da133a6f1a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/issuestore/6/9/69cdb079609ed3ce1e356d44cff508330a5787c4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/issuestore/d/0/d0a5786d0d26298054844eeeb60322da133a6f1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/issuestore/e/f/ef289ba4fe15dfcb0d05ddf4b1d0b6c9ce3b3224" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/issuestore/f/8/f829d4386bcca6ce7e491510ed560944a2f30c26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/securityhotspotstore/6/9/69cdb079609ed3ce1e356d44cff508330a5787c4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/b/6bde82cbb7d0ee56b744e203d373602a725c97c2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/securityhotspotstore/d/0/d0a5786d0d26298054844eeeb60322da133a6f1a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/3/83e6fb3827dbe4e91d05a8a228eef75323fa39e6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/securityhotspotstore/e/f/ef289ba4fe15dfcb0d05ddf4b1d0b6c9ce3b3224" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/e/8e70ce42d1d5d372bc2866498670373788736b37" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/securityhotspotstore/f/8/f829d4386bcca6ce7e491510ed560944a2f30c26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P10986_나머지합.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P11003_최솟값찾기_덱$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P11003_최솟값찾기_덱.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P11286_절댓값합_우선순위큐.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P1157_단어공부.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P11659_구간합구하기.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P11660_구간합구하기2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P11720_숫자의합.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P1253_좋은수.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P12891_DNA비밀번호.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P1546_평균.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P17298_오큰수.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P1874_스택수열_스택.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P1940_주몽.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P2018_연속된자연수의합.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH03/P2164_카드_큐.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P10989_수정렬하기3_자리수버킷정렬.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P11004_K번째수_퀵정렬.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P11004_K번째수_퀵정렬_시간초과.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P11399_ATM_Sort사용.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P11399_ATM_삽입정렬.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P11399_ATM_삽입정렬2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P1377_버블소트1$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P1377_버블소트1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P1427_내림차순정렬_선택정렬.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P1517_버블소트2_병합정렬.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P2750_수정렬하기_버블정렬.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH04정렬/P2751_수정렬하기2_병합정렬.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P1012_유기농배추_BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P1012_유기농배추_DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P10815_숫자카드_이진탐색.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P11724_연결요소의개수_DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P1260_DFS와BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P1300_K번째수_이진탐색.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P13023_친구관계파악하기_DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P1920_원하는정수찾기_이진탐색.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P1920_원하는정수찾기_이진탐색V2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P1920_원하는정수찾기_이진탐색V3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P1920_원하는정수찾기_이진탐색_재귀.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P2023_신기한소수_DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P2178_미로탐색_BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P2343_블루레이_이진탐색.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH05탐색/P7576_토마토_BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH11동적_계획법_DP/P1463_1로만들기.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH11동적_계획법_DP/P2747_피보나치수_BottomUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH11동적_계획법_DP/P2747_피보나치수_TopDown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/CH11동적_계획법_DP/P9461_파도반수열.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="95a5d725-3ab2-4cc4-8141-8018005e88e2" />
+        <option name="url" value="https://github.com/seheonnn/Algorithm_JAVA.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2cwvaQN9MHRsUPuQgDc35N1ETGL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/hoseheon/Desktop/Algorithm_JAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61d76bb8-1250-41c9-a947-0a889aa2aa2d" name="Changes" comment="" />
+      <created>1709035520279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709035520279</updated>
+      <workItem from="1709035521843" duration="82000" />
+      <workItem from="1709035655311" duration="1115000" />
+      <workItem from="1709036842562" duration="18000" />
+      <workItem from="1709036891218" duration="7000" />
+      <workItem from="1709036901957" duration="2000" />
+      <workItem from="1709036980046" duration="7000" />
+      <workItem from="1709037005355" duration="18000" />
+      <workItem from="1709037056649" duration="60000" />
+      <workItem from="1709037148232" duration="59000" />
+      <workItem from="1709037215392" duration="17000" />
+      <workItem from="1709037240396" duration="211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
