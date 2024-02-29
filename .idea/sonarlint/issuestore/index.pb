@@ -33,7 +33,7 @@ Cbaekjoon/CH06그리디알고리즘/P1931_회의실배정하기.java,f/b/fb2fc3
 Ubaekjoon/CH06그리디알고리즘/P1541_최솟값을만드는괄호배치찾기.java,7/0/70ff9252bfd82a43fc1874e17c8ee31a5e13ee88
 w
 Gbaekjoon/CH06그리디알고리즘/P1744_수묶기_우선순위큐.java,b/b/bb5de92057f903915ff7c13a60b800f8f1c6863e
-X
-(baekjoon/CH07/P1929_소수구하기.java,5/7/57efb1861a060cc0569ab16e9572c2814e98b35b
 a
 1baekjoon/CH07정수론/P1929_소수구하기.java,d/7/d76f8f996115c215602379a65971b1ca5c8cfa29
+g
+7baekjoon/CH07정수론/P1456_거의소수구하기.java,6/0/6072d25b151813c178bb3a810638ae83456b9028
