@@ -53,3 +53,5 @@ g
 7baekjoon/CH06그리디알고리즘/P1744_수묶기.java,c/e/cefeaf8849b4e590c3b756185c6575c144b47fd3
 d
 4baekjoon/CH04정렬/P11004_K번째수_퀵정렬.java,8/f/8faa0442811f25dfd12df3497af6830220b2fa9d
+s
+Cbaekjoon/CH06그리디알고리즘/P1931_회의실배정하기.java,f/b/fb2fc3557f57c648e6740d17658c62222ab34367
