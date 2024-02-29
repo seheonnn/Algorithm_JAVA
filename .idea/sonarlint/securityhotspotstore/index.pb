@@ -41,3 +41,5 @@ M
 programmers/package-info.java,e/8/e8eac95633f64c9a04c8d6da5b0b0c9fd7aafb56
 s
 Cprogrammers/sql/주문량이많은아이스크림들조회하기.md,c/2/c2a65becacd97a6e44b6cb633cd5e4b3187adf1d
+p
+@programmers/sql/주문량이많은아이스크림들조회하기,3/d/3db672b12bbb0af497ed60e629c9bdb56e00af29
