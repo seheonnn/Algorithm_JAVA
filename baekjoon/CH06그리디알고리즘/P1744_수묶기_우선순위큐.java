@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 // TODO 우선순위 큐
-public class P1744_수묶기 {
+public class P1744_수묶기_우선순위큐 {
 	public static int N;
 
 	public static void main(String[] args) throws IOException {
