@@ -37,3 +37,5 @@ a
 1baekjoon/CH07정수론/P1929_소수구하기.java,d/7/d76f8f996115c215602379a65971b1ca5c8cfa29
 g
 7baekjoon/CH07정수론/P1456_거의소수구하기.java,6/0/6072d25b151813c178bb3a810638ae83456b9028
+U
+%baekjoon/CH03/P1254_팰린드롬.java,3/d/3d1ffbb112986cabf15aac0cb873b254570d69dd
