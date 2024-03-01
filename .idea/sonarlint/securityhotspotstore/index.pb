@@ -39,3 +39,5 @@ g
 7baekjoon/CH07정수론/P1456_거의소수구하기.java,6/0/6072d25b151813c178bb3a810638ae83456b9028
 U
 %baekjoon/CH03/P1254_팰린드롬.java,3/d/3d1ffbb112986cabf15aac0cb873b254570d69dd
+g
+7baekjoon/CH07정수론/P1747_소수와팰린드롬.java,f/d/fdaf2ff7236cfa57efcbd5e55154feda628b75a8
