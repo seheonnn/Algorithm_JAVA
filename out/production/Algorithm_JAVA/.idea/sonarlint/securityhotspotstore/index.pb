@@ -47,5 +47,3 @@ w
 Gprogrammers/sql/LV4/주문량이많은아이스크림들조회하기.md,7/4/747b371087b58cedd0bc669b0fa30249013b0ad1
 q
 Abaekjoon/CH07정수론/P11689_오일러피함수구현하기.java,0/b/0b694ef952268b0f010c5f16051605b31dd398a3
-}
-Mbaekjoon/CH07정수론/P1929_소수구하기_에라토스테네스방식.java,9/5/958388b6a99754299bb07b965267eb7259408b5d
