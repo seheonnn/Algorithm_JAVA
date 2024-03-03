@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+// TODO 다시하기
 public class P1033_칵테일 {
 	public static ArrayList<Node>[] A; // Node 객체를 요소로 하는 이중 리스트
 	public static long lcm; // 최소공배수

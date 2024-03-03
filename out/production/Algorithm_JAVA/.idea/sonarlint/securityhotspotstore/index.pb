@@ -51,3 +51,9 @@ Mbaekjoon/CH07정수론/P1929_소수구하기_에라토스테네스방식.java,
 Pbaekjoon/CH07정수론/P1934_최소공배수구하기_유클리드호제법.java,b/d/bd02fcb4cd4166ed6a4845b2f71d3782183207c0
 j
 :baekjoon/CH07정수론/P1850_최대공약수구하기.java,2/3/23080dc5277b3b17b89d3530a2650ddebc5a7e31
+[
++baekjoon/CH07정수론/P1033_칵테일.java,1/7/17c8b9da1958d404300b3a22bd1bcb943eb39902
+R
+"baekjoon/CH07정수론/P21568.java,4/3/4373b335d067227a82266ac1621ecf9143720248
+n
+>baekjoon/CH07정수론/P21568_확장유클리드호제법.java,1/c/1c3754373a5f22f5eba271faf3850b8d05113277
