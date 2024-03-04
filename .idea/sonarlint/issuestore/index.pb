@@ -53,7 +53,5 @@ j
 :baekjoon/CH07정수론/P1850_최대공약수구하기.java,2/3/23080dc5277b3b17b89d3530a2650ddebc5a7e31
 [
 +baekjoon/CH07정수론/P1033_칵테일.java,1/7/17c8b9da1958d404300b3a22bd1bcb943eb39902
-R
-"baekjoon/CH07정수론/P21568.java,4/3/4373b335d067227a82266ac1621ecf9143720248
 n
 >baekjoon/CH07정수론/P21568_확장유클리드호제법.java,1/c/1c3754373a5f22f5eba271faf3850b8d05113277
