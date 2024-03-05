@@ -1,0 +1,33 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Βόÿÿÿÿ8Ό¬ζΰ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πΉχ8Ό¬ζΰ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»¦όÿÿÿÿ8Ό¬ζΰ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Α‹„Ν8Ό¬ζΰ1
+o
+java:S1104
+"MMake A a static final constant or non-public and provide accessors if needed.(ƒφρϊÿÿÿÿ8Ό¬ζΰ1
+u
+java:S1104"SMake visited a static final constant or non-public and provide accessors if needed.(Ρ£Δϊÿÿÿÿ8Ό¬ζΰ1
+I
+java:S1444
+"'Make this "public static A" field final(ƒφρϊÿÿÿÿ8Ό¬ζΰ1
+O
+java:S1444"-Make this "public static visited" field final(Ρ£Δϊÿÿÿÿ8Ό¬ζΰ1
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£®Ξ΄8½¬ζΰ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΔΨ¨8½¬ζΰ1
+n
+java:S3008
+"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒφρϊÿÿÿÿ8Δ¬ζΰ1
+R
+java:S1854"5Remove this useless assignment to local variable "X".(Α‹„Ν8Ε¬ζΰ1
+W
+java:S1854"5Remove this useless assignment to local variable "K".(»»¦όÿÿÿÿ8Ε¬ζΰ1
+H
+java:S1481"&Remove this unused "K" local variable.(»»¦όÿÿÿÿ8Η¬ζΰ1
+C
+java:S1481"&Remove this unused "X" local variable.(Α‹„Ν8Η¬ζΰ1
+9
+java:S2386"Make member "A" "protected".(¤Ν©ϋ8Η¬ζΰ1
+?
+java:S2386""Make member "visited" "protected".(£ρρΨ8Θ¬ζΰ1
+L	java:S106""+Replace this use of System.out by a logger.(σ“‰ÿÿÿÿÿ8Σΰ­ζΰ1

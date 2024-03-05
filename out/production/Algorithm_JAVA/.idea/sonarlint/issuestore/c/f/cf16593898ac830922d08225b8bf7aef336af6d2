@@ -1,0 +1,28 @@
+
+t
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(°†ÿþÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð¹÷
+n
+java:S1104"SMake visited a static final constant or non-public and provide accessors if needed.(Ñ£Äúÿÿÿÿ
+h
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(Šƒöñúÿÿÿÿ
+H
+java:S1444"-Make this "public static visited" field final(Ñ£Äúÿÿÿÿ
+B
+java:S1444"'Make this "public static A" field final(Šƒöñúÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…¾‡Þ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ÎÑÀüÿÿÿÿ
+g
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šƒöñúÿÿÿÿ
+2
+java:S2386"Make member "A" "protected".(¤Í©û
+8
+java:S2386""Make member "visited" "protected".(£ññØ
+E	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+c	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð–Øá
+W
+java:S34574"AFormat specifiers should be used instead of string concatenation.(„›îþ
+@	java:S1064"+Replace this use of System.out by a logger.(„›îþ
+h	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øí›Âÿÿÿÿÿ
+?	java:S106D"+Replace this use of System.out by a logger.(šê¤
