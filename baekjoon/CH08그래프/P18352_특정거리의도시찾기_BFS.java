@@ -34,18 +34,21 @@ public class P18352_특정거리의도시찾기_BFS {
 		}
 
 		for (int i = 0; i < M; i++) {
+			// 인전리스트에 그래프 데이터 입력
 			String[] temp = br.readLine().split(" ");
 			A[Integer.parseInt(temp[0])].add(Integer.parseInt(temp[1]));
 		}
 
 		BFS(X);
 		for (int i = 1; i <= N; i++) {
+			// 방문 거리가 K인 도시의 번호를 정답 배열에 넣음
 			if (visited[i] == K)
 				result.add(i);
 		}
 		if (result.isEmpty()) {
 			System.out.println(-1);
 		} else {
+			// 정답 배열 오름차순 정렬 후 출력
 			Collections.sort(result);
 			for (int temp : result) {
 				System.out.println(temp);
@@ -61,6 +64,7 @@ public class P18352_특정거리의도시찾기_BFS {
 			int cur = queue.poll();
 			for (int i : A[cur]) {
 				if (visited[i] == -1) {
+					// 이전에 방문한 도시까지의 거리에서 1 증가
 					visited[i] = visited[cur] + 1;
 					queue.add(i);
 				}
