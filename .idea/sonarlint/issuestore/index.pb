@@ -59,5 +59,5 @@ o
 ?baekjoon/CH05탐색/P18111_마인크래프트_완전탐색.java,d/9/d9f425f99864f9cc023151163b26d3deec2d1c2c
 h
 8baekjoon/CH08그래프/P1325_효율적인해킹_BFS.java,f/d/fddc58753356e1911eb7a090c06382bbfba83051
-P
- baekjoon/CH08그래프/test.java,1/a/1a588cdebd1d8f6a8f13f5729b8b0666595ef887
+w
+Gbaekjoon/CH08그래프/P1707_이분그래프판별하기_DFS와BFS.java,e/1/e112e665508b618ba53d185dcd789eef4bbaf644
