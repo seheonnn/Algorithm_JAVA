@@ -1,0 +1,26 @@
+
+j
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(—ßÃµ8∂à∆∏·1
+j
+java:S1104"MMake B a static final constant or non-public and provide accessors if needed.(—ßÃµ8∂à∆∏·1
+j
+java:S1104"MMake C a static final constant or non-public and provide accessors if needed.(—ßÃµ8∂à∆∏·1
+D
+java:S1444"'Make this "public static A" field final(—ßÃµ8∂à∆∏·1
+D
+java:S1444"'Make this "public static B" field final(—ßÃµ8∂à∆∏·1
+D
+java:S1444"'Make this "public static C" field final(—ßÃµ8∂à∆∏·1
+n	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÛŒ†∞˘ˇˇˇˇ8§Ç£∏·1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒÿ®ü
+i
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ßÃµ8¿à∆∏·1
+i
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ßÃµ8¿à∆∏·1
+i
+java:S3008"LRename this field "C" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ßÃµ8¿à∆∏·1
+[
+java:S1659">Declare "B" and all following declarations on a separate line.(—ßÃµ8¿à∆∏·1
+G	java:S106"+Replace this use of System.out by a logger.(Ÿ©»±8≥ú«∏·1
+i	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ﬂ”@8≥ú«∏·1
