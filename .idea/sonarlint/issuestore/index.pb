@@ -67,3 +67,5 @@ P
  baekjoon/CH08그래프/test.java,1/a/1a588cdebd1d8f6a8f13f5729b8b0666595ef887
 h
 8baekjoon/CH08그래프/P2251_물의양구하기_DFS.java,c/2/c21dc052872f35973b5876ed93cc90d8cc96cf78
+h
+8baekjoon/CH08그래프/P2251_물의양구하기_BFS.java,1/e/1e9d594099dbf533f73f28f5acde302f5a997873
