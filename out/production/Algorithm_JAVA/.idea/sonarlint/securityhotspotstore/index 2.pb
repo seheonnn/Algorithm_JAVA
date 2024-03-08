@@ -61,3 +61,11 @@ h
 8baekjoon/CH08그래프/P1325_효율적인해킹_BFS.java,f/d/fddc58753356e1911eb7a090c06382bbfba83051
 w
 Gbaekjoon/CH08그래프/P1707_이분그래프판별하기_DFS와BFS.java,e/1/e112e665508b618ba53d185dcd789eef4bbaf644
+h
+8baekjoon/CH08그래프/P2251_물의양구하기_DFS.java,c/2/c21dc052872f35973b5876ed93cc90d8cc96cf78
+h
+8baekjoon/CH08그래프/P2251_물의양구하기_BFS.java,1/e/1e9d594099dbf533f73f28f5acde302f5a997873
+d
+4baekjoon/CH08그래프/P1717_집합표현하기.java,b/0/b0bcacf25e4c89d0e9c397737fd0939be7338020
+d
+4baekjoon/CH08그래프/P1976_여행계획짜기.java,7/b/7b3c88e7587c96982fe04390346d859d4b7d4565

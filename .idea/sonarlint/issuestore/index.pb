@@ -67,3 +67,7 @@ h
 8baekjoon/CH08그래프/P2251_물의양구하기_BFS.java,1/e/1e9d594099dbf533f73f28f5acde302f5a997873
 d
 4baekjoon/CH08그래프/P1717_집합표현하기.java,b/0/b0bcacf25e4c89d0e9c397737fd0939be7338020
+d
+4baekjoon/CH08그래프/P1976_여행계획짜기.java,7/b/7b3c88e7587c96982fe04390346d859d4b7d4565
+k
+;baekjoon/CH08그래프/P1976_여행계획짜기_집합.java,8/9/89c96c82085761392385bc5d9d148386cd7258fd
