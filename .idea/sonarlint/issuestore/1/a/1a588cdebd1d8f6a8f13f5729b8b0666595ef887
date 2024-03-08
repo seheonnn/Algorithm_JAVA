@@ -1,28 +1,0 @@
-
-ƒ
-java:S1319"fThe type of "result" should be an interface such as "List" rather than the implementation "ArrayList".(ÒïÂ¿8·É«¿á1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€˜îþ8¯µª¿á1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¡ìÍ8¯µª¿á1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º§”À8¯µª¿á1
-r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽþËàøÿÿÿÿ8¯µª¿á1
-r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽþËàøÿÿÿÿ8¯µª¿á1
-r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽþËàøÿÿÿÿ8°µª¿á1
-p
-java:S1104"SMake visited a static final constant or non-public and provide accessors if needed.(à¥ºÉ8ã½©¿á1
-o
-java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(ÒïÂ¿8°µª¿á1
-J
-java:S1444"-Make this "public static visited" field final(à¥ºÉ8ã½©¿á1
-I
-java:S1444",Make this "public static result" field final(ÒïÂ¿8°µª¿á1
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ8ã½©¿á1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄØ¨Ÿ8ä½©¿á1
-D
-java:S2386""Make member "visited" "protected".(ñ™ö®üÿÿÿÿ8ìµª¿á1
-C
-java:S2386"!Make member "result" "protected".(‚‹Ð›üÿÿÿÿ8ìµª¿á1
-c
-java:S3457"AFormat specifiers should be used instead of string concatenation.(Ø™ÌÙøÿÿÿÿ8à¿¬¿á1
-L	java:S106"+Replace this use of System.out by a logger.(Ø™ÌÙøÿÿÿÿ8à¿¬¿á1
-t
-java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ŽþËàøÿÿÿÿ8ìµª¿á1
