@@ -71,3 +71,7 @@ d
 4baekjoon/CH08그래프/P1976_여행계획짜기.java,7/b/7b3c88e7587c96982fe04390346d859d4b7d4565
 k
 ;baekjoon/CH08그래프/P1976_여행계획짜기_집합.java,8/9/89c96c82085761392385bc5d9d148386cd7258fd
+[
++baekjoon/CH08그래프/P1043_거짓말.java,2/6/269f0d925fc3e319e0ac9ad43bd66cae79416fbc
+b
+2baekjoon/CH08그래프/P1043_거짓말_집합.java,2/8/281ceaf56383fa2c17685ace3e8bc10a16bd6435
