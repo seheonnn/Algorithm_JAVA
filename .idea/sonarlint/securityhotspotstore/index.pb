@@ -75,3 +75,9 @@ k
 +baekjoon/CH08그래프/P1043_거짓말.java,2/6/269f0d925fc3e319e0ac9ad43bd66cae79416fbc
 b
 2baekjoon/CH08그래프/P1043_거짓말_집합.java,2/8/281ceaf56383fa2c17685ace3e8bc10a16bd6435
+^
+.baekjoon/CH08그래프/P2252_줄세우기.java,b/6/b6cab38096407c61f33271ae0d5f85816956bb07
+k
+;baekjoon/CH08그래프/P2252_줄세우기_위상정렬.java,0/9/09cb35a5ce7686f4b5f3d61abf2b10e437ff4762
+P
+ baekjoon/CH08그래프/test.java,1/a/1a588cdebd1d8f6a8f13f5729b8b0666595ef887
