@@ -81,3 +81,7 @@ k
 ;baekjoon/CH08그래프/P2252_줄세우기_위상정렬.java,0/9/09cb35a5ce7686f4b5f3d61abf2b10e437ff4762
 P
  baekjoon/CH08그래프/test.java,1/a/1a588cdebd1d8f6a8f13f5729b8b0666595ef887
+d
+4baekjoon/CH08그래프/P1516_게임개발하기.java,d/6/d6b0fe949a65925913e0fa6acd523ef105a365cc
+k
+;baekjoon/CH08그래프/P1516_게임개발_위상정렬.java,3/7/37cf5744d03b0f96a2858d198b1ca5a49d019a97
