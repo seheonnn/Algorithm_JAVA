@@ -53,6 +53,7 @@ public class P1516_게임개발_위상정렬 {
 			int cur = queue.poll();
 			for (int next : A[cur]) {
 				indegree[next]--;
+				// 해당 건물을 짓기 위해 우선적으로 지어야 하는 건물들 중에서 가장 오래 걸리는 시간 (동시에 지어야 최소 시간이 됨)
 				result[next] = Math.max(result[next], result[cur] + buildTime[cur]);
 				if (indegree[next] == 0) {
 					queue.add(next);
@@ -61,6 +62,7 @@ public class P1516_게임개발_위상정렬 {
 		}
 
 		for (int i = 1; i <= N; i++) {
+			// 특정 건물을 짓기 위해 걸리는 시간 = 우선적으로 지어야 하는 건물들을 짓기 위해 걸리는 시간 + 특정 건물을 짓기 위해 걸리는 시간
 			System.out.println(result[i] + buildTime[i]);
 		}
 	}
