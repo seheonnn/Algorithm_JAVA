@@ -57,9 +57,7 @@ public class P1753_최단경로_다익스트라 {
 		while (!queue.isEmpty()) {
 			Node cur = queue.poll();
 			// 현재 노드에서 갈 수 있는 모든 다음 노드들을 순회
-			int len = list[cur.vertex].size();
-			for (int i = 0; i < len; i++) {
-				Node next = list[cur.vertex].get(i);
+			for (Node next : list[cur.vertex]) {
 				// 만약 현재까지의 거리와 현재 노드에서 다음 노드로 가는 가중치를 더한 값이
 				// 다음 노드까지의 최단거리(현재 노드를 거치치 않는 경우)보다 작다면 업데이트 하고 큐에 넣음
 				if (distance[next.vertex] > cur.weight + next.weight) {

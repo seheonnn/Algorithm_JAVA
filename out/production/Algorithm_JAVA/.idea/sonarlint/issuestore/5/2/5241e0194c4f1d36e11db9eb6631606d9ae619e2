@@ -22,4 +22,4 @@ java:S2386"#Make member "distance" "protected".(ªÉ„ùøÿÿÿÿ8¦ıƒµâ1
 L	java:S106-"+Replace this use of System.out by a logger.(ÆÓã«ûÿÿÿÿ8¨ıƒµâ1
 F	java:S106/"+Replace this use of System.out by a logger.(ÙãÍ|8¨ıƒµâ1
 {
-java:S1210O"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ8©ıƒµâ1
+java:S1210S"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(áÂ¦ÿÿÿÿÿ8‘§¿¶â1

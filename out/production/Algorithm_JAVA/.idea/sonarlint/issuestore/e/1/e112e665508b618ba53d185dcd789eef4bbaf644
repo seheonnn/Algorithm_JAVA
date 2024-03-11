@@ -1,0 +1,35 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ç”„ûÿÿÿÿ8ÎÒ×™á1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ûå½8ÎÒ×™á1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üšÃóùÿÿÿÿ8ÎÒ×™á1
+o
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(Šƒöñúÿÿÿÿ8ÎÒ×™á1
+u
+java:S1104"SMake visited a static final constant or non-public and provide accessors if needed.(Ñ£Äúÿÿÿÿ8ÎÒ×™á1
+n
+java:S1104"QMake check a static final constant or non-public and provide accessors if needed.(îä…ß8ÎÒ×™á1
+t
+java:S1104"RMake isEven a static final constant or non-public and provide accessors if needed.(Åè°Óüÿÿÿÿ8ÎÒ×™á1
+I
+java:S1444"'Make this "public static A" field final(Šƒöñúÿÿÿÿ8ÎÒ×™á1
+O
+java:S1444"-Make this "public static visited" field final(Ñ£Äúÿÿÿÿ8ÎÒ×™á1
+H
+java:S1444"+Make this "public static check" field final(îä…ß8ÎÒ×™á1
+N
+java:S1444",Make this "public static isEven" field final(Åè°Óüÿÿÿÿ8ÎÒ×™á1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İ´»Ô8ÎÒ×™á1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄØ¨Ÿ8ÏÒ×™á1
+n
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šƒöñúÿÿÿÿ8¢Ó×™á1
+9
+java:S2386"Make member "A" "protected".(áÉñê8¦Ó×™á1
+?
+java:S2386""Make member "visited" "protected".(Ş€îš8¦Ó×™á1
+=
+java:S2386!" Make member "check" "protected".(Ê¢¸Õ8¦Ó×™á1
+X	java:S1253"<This block of commented-out lines of code should be removed.(³ë¼É8‚©šá1
+L	java:S106<"+Replace this use of System.out by a logger.(‰ú£ûûÿÿÿÿ8§Ó×™á1
+L	java:S106>"+Replace this use of System.out by a logger.(Ò‘õ©ùÿÿÿÿ8§Ó×™á1
+o	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øí›Âÿÿÿÿÿ8¨Ó×™á1
+j	java:S100W"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ–Øá8©Ó×™á1
