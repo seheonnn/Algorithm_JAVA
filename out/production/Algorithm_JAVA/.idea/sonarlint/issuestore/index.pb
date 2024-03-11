@@ -67,5 +67,15 @@ h
 8baekjoon/CH08그래프/P2251_물의양구하기_BFS.java,1/e/1e9d594099dbf533f73f28f5acde302f5a997873
 d
 4baekjoon/CH08그래프/P1717_집합표현하기.java,b/0/b0bcacf25e4c89d0e9c397737fd0939be7338020
-d
-4baekjoon/CH08그래프/P1976_여행계획짜기.java,7/b/7b3c88e7587c96982fe04390346d859d4b7d4565
+k
+;baekjoon/CH08그래프/P1976_여행계획짜기_집합.java,8/9/89c96c82085761392385bc5d9d148386cd7258fd
+b
+2baekjoon/CH08그래프/P1043_거짓말_집합.java,2/8/281ceaf56383fa2c17685ace3e8bc10a16bd6435
+k
+;baekjoon/CH08그래프/P2252_줄세우기_위상정렬.java,0/9/09cb35a5ce7686f4b5f3d61abf2b10e437ff4762
+k
+;baekjoon/CH08그래프/P1516_게임개발_위상정렬.java,3/7/37cf5744d03b0f96a2858d198b1ca5a49d019a97
+n
+>baekjoon/CH08그래프/P1753_최단경로_다익스트라.java,5/2/5241e0194c4f1d36e11db9eb6631606d9ae619e2
+P
+ baekjoon/CH08그래프/test.java,1/a/1a588cdebd1d8f6a8f13f5729b8b0666595ef887
