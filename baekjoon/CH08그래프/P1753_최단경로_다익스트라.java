@@ -10,6 +10,7 @@ import java.util.StringTokenizer;
 public class P1753_최단경로_다익스트라 {
 	public static ArrayList<Node>[] list;
 	public static int[] distance;
+	public static boolean[] visited;
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -22,6 +23,7 @@ public class P1753_최단경로_다익스트라 {
 
 		list = new ArrayList[V + 1];
 		distance = new int[V + 1];
+		visited = new boolean[V + 1];
 
 		for (int i = 1; i <= V; i++) {
 			list[i] = new ArrayList<Node>();
@@ -55,14 +57,20 @@ public class P1753_최단경로_다익스트라 {
 		distance[start] = 0;
 		queue.add(new Node(start, 0));
 		while (!queue.isEmpty()) {
-			Node cur = queue.poll();
-			// 현재 노드에서 갈 수 있는 모든 다음 노드들을 순회
-			for (Node next : list[cur.vertex]) {
-				// 만약 현재까지의 거리와 현재 노드에서 다음 노드로 가는 가중치를 더한 값이
-				// 다음 노드까지의 최단거리(현재 노드를 거치치 않는 경우)보다 작다면 업데이트 하고 큐에 넣음
-				if (distance[next.vertex] > cur.weight + next.weight) {
-					distance[next.vertex] = cur.weight + next.weight;
-					queue.add(new Node(next.vertex, distance[next.vertex]));
+			Node now = queue.poll();
+			int nowVertex = now.vertex;
+
+			// visited 사용시 성능 향상
+			if (!visited[nowVertex]) {
+				visited[nowVertex] = true;
+				// 현재 노드에서 갈 수 있는 모든 다음 노드들을 순회
+				for (Node next : list[nowVertex]) {
+					// 만약 현재까지의 거리와 현재 노드에서 다음 노드로 가는 가중치를 더한 값이
+					// 다음 노드까지의 최단거리(현재 노드를 거치치 않는 경우)보다 작다면 업데이트 하고 큐에 넣음
+					if (distance[next.vertex] > now.weight + next.weight) {
+						distance[next.vertex] = now.weight + next.weight;
+						queue.add(new Node(next.vertex, distance[next.vertex]));
+					}
 				}
 			}
 		}
