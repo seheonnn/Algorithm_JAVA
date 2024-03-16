@@ -25,7 +25,7 @@ public class P11657_타임머신_벨만포드 {
 		list = new ArrayList[N + 1];
 		distance = new long[N + 1];
 		for (int i = 0; i <= N; i++) {
-			distance[i] = Integer.MAX_VALUE;
+			distance[i] = Long.MAX_VALUE;
 			list[i] = new ArrayList<>();
 		}
 
@@ -43,7 +43,7 @@ public class P11657_타임머신_벨만포드 {
 			// 1번 도시에서 출발
 			for (int i = 2; i <= N; i++) {
 				// 해당 도시(i 도시)로 갈 수 있는 경로가 없는 경우 -1 출력
-				if (distance[i] == Integer.MAX_VALUE)
+				if (distance[i] == Long.MAX_VALUE)
 					System.out.println(-1);
 				else
 					System.out.println(distance[i]);
@@ -60,7 +60,7 @@ public class P11657_타임머신_벨만포드 {
 		for (int i = 1; i <= N; i++) {
 			for (int j = 1; j <= N; j++) {
 				for (Node cur : list[j]) {
-					if (distance[j] != Integer.MAX_VALUE && distance[cur.vertex] > distance[j] + cur.weight)
+					if (distance[j] != Long.MAX_VALUE && distance[cur.vertex] > distance[j] + cur.weight)
 						distance[cur.vertex] = distance[j] + cur.weight;
 				}
 			}
@@ -69,7 +69,7 @@ public class P11657_타임머신_벨만포드 {
 		// 모든 노드를 방문한 뒤에도 최단 경로가 존재하면 음수 사이클이 있다는 것.
 		for (int i = 1; i <= N; i++) {
 			for (Node cur : list[i]) {
-				if (distance[i] != Integer.MAX_VALUE && distance[cur.vertex] > distance[i] + cur.weight) {
+				if (distance[i] != Long.MAX_VALUE && distance[cur.vertex] > distance[i] + cur.weight) {
 					hasCycle = true;
 					break;
 				}
