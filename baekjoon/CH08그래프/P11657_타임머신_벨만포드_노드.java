@@ -6,8 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class P11657_타임머신_벨만포드 {
-	// 벨만포드는 노드가 아닌 엣지의 리스트를 이용
+public class P11657_타임머신_벨만포드_노드 {
 	public static ArrayList<Node>[] list;
 
 	public static long[] distance; // int로 하는 경우 출력 초과

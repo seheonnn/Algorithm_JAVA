@@ -24,7 +24,7 @@ I
 java:S1444"'Make this "public static N" field final(Ώκέψÿÿÿÿ8Ξ‘π¬δ1
 I
 java:S1444"'Make this "public static M" field final(Ώκέψÿÿÿÿ8Ξ‘π¬δ1
-i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(σΘμζ8Ο‘π¬δ1
+n	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ύΨ³Ηϊÿÿÿÿ8Ο‘π¬δ1
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΔΨ¨8Ο‘π¬δ1
 n
 java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ώκέψÿÿÿÿ8±’π¬δ1
