@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class P11657_타임머신_벨만포드_엣지 {
+	// 벨만 포드의 경우 음수 가중치 허용, 엣지 클래스의 리스트 이용
 	public static Edge[] edges;
 
 	public static long[] distance; // int로 하는 경우 출력 초과
