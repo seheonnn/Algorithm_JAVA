@@ -89,3 +89,5 @@ t
 Dbaekjoon/CH08그래프/P1219_세일즈맨의고민_벨만포드.java,d/d/ddab47a653125412693ad9369c5df181924878b8
 s
 Cbaekjoon/CH08그래프/P11657_타임머신_벨만포드_노드.java,8/d/8decec613c442260cf24774b05d99626ca7ce74d
+N
+baekjoon/CH08그래프/memo.md,1/3/13c00e2451c80235eec59eb8829bc362c2ce0f05
