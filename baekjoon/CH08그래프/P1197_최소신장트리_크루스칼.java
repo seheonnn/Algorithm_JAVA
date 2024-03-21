@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class P1197_최소신장트리 {
+public class P1197_최소신장트리_크루스칼 {
 
 	public static int N, M;
 	public static int[] parent;
