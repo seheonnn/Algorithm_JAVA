@@ -1,0 +1,51 @@
+
+E
+java:S1066H"/Merge this if statement with the enclosing one.(è“Ö¸
+c
+java:S1104"MMake M a static final constant or non-public and provide accessors if needed.(¶ßˆÁ
+h
+java:S1104"MMake N a static final constant or non-public and provide accessors if needed.(ÜßŞÒûÿÿÿÿ
+c
+java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(ĞÂœ
+i
+java:S1104"SMake visited a static final constant or non-public and provide accessors if needed.(à¥ºÉ
+i
+java:S1104"NMake dx a static final constant or non-public and provide accessors if needed.(±ßòêûÿÿÿÿ
+d
+java:S1104"NMake dy a static final constant or non-public and provide accessors if needed.(û—Ò
+=
+java:S1444"'Make this "public static M" field final(¶ßˆÁ
+B
+java:S1444"'Make this "public static N" field final(ÜßŞÒûÿÿÿÿ
+=
+java:S1444"'Make this "public static A" field final(ĞÂœ
+C
+java:S1444"-Make this "public static visited" field final(à¥ºÉ
+C
+java:S1444"(Make this "public static dx" field final(±ßòêûÿÿÿÿ
+>
+java:S1444"(Make this "public static dy" field final(û—Ò
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ÎõŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„ÎÑÀüÿÿÿÿ
+b
+java:S3008"LRename this field "M" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ßˆÁ
+g
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜßŞÒûÿÿÿÿ
+b
+java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÂœ
+8
+java:S2386"Make this member "protected".(±ßòêûÿÿÿÿ
+3
+java:S2386"Make this member "protected".(û—Ò
+H
+java:S1135
+"2Complete the task associated to this TODO comment.(±Ñì
+7
+java:S2386"Make member "A" "protected".(àñ¼Òşÿÿÿÿ
+=
+java:S2386""Make member "visited" "protected".(Šú–ıùÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(¡ò†şÿÿÿÿ
+@	java:S1061"+Replace this use of System.out by a logger.(äÖ¬¶
+b	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô³¦Z
+g
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ô³¦Z

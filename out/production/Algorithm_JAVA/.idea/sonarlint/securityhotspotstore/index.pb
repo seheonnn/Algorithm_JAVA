@@ -101,5 +101,7 @@ q
 Abaekjoon/CH08그래프/P1197_최소신장트리_크루스칼.java,5/6/561eaa7d4b9e5dd2a74a93ce174e912a18e4f642
 o
 ?baekjoon/CH08그래프/P17472_다리만들기_크루스칼.java,a/a/aa07cd02a3d4fefa3b7c15704aaf80fa5ff0f4ab
-P
- baekjoon/CH08그래프/test.java,1/a/1a588cdebd1d8f6a8f13f5729b8b0666595ef887
+l
+<baekjoon/CH08그래프/P1414_불우이웃돕기_크루스칼,c/e/cece6348a161cd963712ea351550efd7dc6a132a
+q
+Abaekjoon/CH08그래프/P1414_불우이웃돕기_크루스칼.java,f/8/f8143740b1f83c72a5fe25c9501a031b0ca2fccc

@@ -101,3 +101,7 @@ q
 Abaekjoon/CH08그래프/P1197_최소신장트리_크루스칼.java,5/6/561eaa7d4b9e5dd2a74a93ce174e912a18e4f642
 o
 ?baekjoon/CH08그래프/P17472_다리만들기_크루스칼.java,a/a/aa07cd02a3d4fefa3b7c15704aaf80fa5ff0f4ab
+q
+Abaekjoon/CH08그래프/P1414_불우이웃돕기_크루스칼.java,f/8/f8143740b1f83c72a5fe25c9501a031b0ca2fccc
+\
+,baekjoon/CH05탐색/P7576_토마토_BFS.java,3/e/3e7e47844ff806940e5ea8e45680759a4e1309a1
