@@ -109,3 +109,5 @@ b
 2baekjoon/CH05탐색/P1012_유기농배추_BFS.java,d/9/d90f594e7ff387384f40e4dfa96375fe70697546
 i
 9baekjoon/CH09트리/P11725_트리의부모찾기_BFS.java,f/9/f99556c1ea84b95d27e35edac113847b5b014f6a
+e
+5baekjoon/CH09트리/P1068_리프노드찾기_BFS.java,8/6/86b1bf07a260f4e67d6efd35b04216f0059bf72d

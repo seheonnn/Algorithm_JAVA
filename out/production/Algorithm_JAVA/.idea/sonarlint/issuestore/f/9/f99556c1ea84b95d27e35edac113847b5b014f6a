@@ -27,5 +27,5 @@ java:S2386"Make member "A" "protected".(¤Í©û8ÄÊ­Ÿç1
 java:S2386""Make member "visited" "protected".(£ññØ8ÄÊ­Ÿç1
 C
 java:S2386"!Make member "answer" "protected".(¸çüÿÿÿÿ8ÄÊ­Ÿç1
-L	java:S106)"+Replace this use of System.out by a logger.(ôîßÕşÿÿÿÿ8ÅÊ­Ÿç1
-o	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øí›Âÿÿÿÿÿ8ÅÊ­Ÿç1
+L	java:S106*"+Replace this use of System.out by a logger.(ôîßÕşÿÿÿÿ8ÅÊ­Ÿç1
+o	java:S100."NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øí›Âÿÿÿÿÿ8ÅÊ­Ÿç1

@@ -1,0 +1,30 @@
+
+o
+java:S1104
+"MMake A a static final constant or non-public and provide accessors if needed.(ƒφρϊÿÿÿÿ8¨Φθ1
+v
+java:S1104"TMake visitied a static final constant or non-public and provide accessors if needed.(Δª― ύÿÿÿÿ8¨Φθ1
+j
+java:S1104"MMake N a static final constant or non-public and provide accessors if needed.(‰†£8¨Φθ1
+m
+java:S1104"PMake root a static final constant or non-public and provide accessors if needed.(‰†£8¨Φθ1
+I
+java:S1444
+"'Make this "public static A" field final(ƒφρϊÿÿÿÿ8¨Φθ1
+P
+java:S1444".Make this "public static visitied" field final(Δª― ύÿÿÿÿ8¨Φθ1
+D
+java:S1444"'Make this "public static N" field final(‰†£8¨Φθ1
+G
+java:S1444"*Make this "public static root" field final(‰†£8¨Φθ1
+i	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–Υει8¨Φθ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΥÿΗ8¨Φθ1
+n
+java:S3008
+"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒφρϊÿÿÿÿ8—¨Φθ1
+i
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰†£8—¨Φθ1
+?
+java:S1659""Declare "root" on a separate line.(‰†£8¨Φθ1
+9
+java:S2386"Make member "A" "protected".(¤Ν©ϋ8¨Φθ1
