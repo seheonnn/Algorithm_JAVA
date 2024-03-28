@@ -101,7 +101,15 @@ q
 Abaekjoon/CH08그래프/P1197_최소신장트리_크루스칼.java,5/6/561eaa7d4b9e5dd2a74a93ce174e912a18e4f642
 o
 ?baekjoon/CH08그래프/P17472_다리만들기_크루스칼.java,a/a/aa07cd02a3d4fefa3b7c15704aaf80fa5ff0f4ab
-l
-<baekjoon/CH08그래프/P1414_불우이웃돕기_크루스칼,c/e/cece6348a161cd963712ea351550efd7dc6a132a
 q
 Abaekjoon/CH08그래프/P1414_불우이웃돕기_크루스칼.java,f/8/f8143740b1f83c72a5fe25c9501a031b0ca2fccc
+\
+,baekjoon/CH05탐색/P7576_토마토_BFS.java,3/e/3e7e47844ff806940e5ea8e45680759a4e1309a1
+i
+9baekjoon/CH09트리/P11725_트리의부모찾_트리.java,6/b/6b4dcd203465cc7fa66099f56327b73978c26b48
+b
+2baekjoon/CH05탐색/P1012_유기농배추_BFS.java,d/9/d90f594e7ff387384f40e4dfa96375fe70697546
+f
+6baekjoon/CH09트리/P11725_트리의부모찾_BFS.java,a/5/a57da9653825d64147427b6ce6a09eb6b8dee8b1
+i
+9baekjoon/CH09트리/P11725_트리의부모찾기_BFS.java,f/9/f99556c1ea84b95d27e35edac113847b5b014f6a
