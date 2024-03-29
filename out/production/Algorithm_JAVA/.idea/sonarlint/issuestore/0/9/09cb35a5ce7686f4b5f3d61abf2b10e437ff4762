@@ -1,22 +1,0 @@
-
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Βόÿÿÿÿ8ªϋπα1
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πΉχ8ªϋπα1
-o
-java:S1104"MMake A a static final constant or non-public and provide accessors if needed.(ƒφρϊÿÿÿÿ8«ϋπα1
-q
-java:S1104"TMake indegree a static final constant or non-public and provide accessors if needed.(Γ¦†ρ8«ϋπα1
-I
-java:S1444"'Make this "public static A" field final(ƒφρϊÿÿÿÿ8«ϋπα1
-K
-java:S1444".Make this "public static indegree" field final(Γ¦†ρ8«ϋπα1
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰Ζ¦όÿÿÿÿ8«ϋπα1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΔΨ¨8«ϋπα1
-n
-java:S3008"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒφρϊÿÿÿÿ8ϋϋπα1
-9
-java:S2386"Make member "A" "protected".(¤Ν©ϋ8ΣΨ¤πα1
-@
-java:S2386"#Make member "indegree" "protected".(α›μί8…όπα1
-^
-java:S3457."AFormat specifiers should be used instead of string concatenation.(©‚„υ8‰όπα1
-G	java:S106."+Replace this use of System.out by a logger.(©‚„υ8όπα1

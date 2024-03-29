@@ -6,3 +6,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+
+# Mac os
+*.Ds_Store

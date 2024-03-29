@@ -1,22 +1,0 @@
-
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂšŸüÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ž»»¦üÿÿÿÿ
-k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ØÆýÿÿÿÿ
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§™’Ü
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§™’Ü
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§™’Ü
-f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§™’Ü
-k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜í¯™ùÿÿÿÿ
-k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜í¯™ùÿÿÿÿ
-k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜í¯™ùÿÿÿÿ
-f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ‚Ä©
-f	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸ¹ö
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ûêùìøÿÿÿÿ
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­áÇy
-@	java:S106"+Replace this use of System.out by a logger.(Ã“’
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§™’Ü
->	java:S108")Either remove or fill this block of code.(¸¸¼ö
-h	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜í¯™ùÿÿÿÿ
-:
-java:S1659/"Declare "j" on a separate line.(ùÆÉ¥úÿÿÿÿ
-c	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸ¹ö
