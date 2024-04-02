@@ -38,8 +38,9 @@ public class P2042_구간합구하기3_세그먼트트리 {
 			int s = Integer.parseInt(st.nextToken());
 			long e = Long.parseLong(st.nextToken());
 			if (a == 1) {
-				changeVal(leftNodeStartIndex + s, e);
+				changeVal(leftNodeStartIndex + s, e); // 값 변경
 			} else if (a == 2) {
+				// 구간합 함수 호출 및 출력
 				s += leftNodeStartIndex;
 				e += leftNodeStartIndex;
 				System.out.println(getSum(s, (int)e));
@@ -69,7 +70,7 @@ public class P2042_구간합구하기3_세그먼트트리 {
 
 	// 값을 변경하는 함수
 	public static void changeVal(int index, long val) {
-		long diff = val - tree[index];
+		long diff = val - tree[index]; // 현재 노드의 값과 변경된 값의 차이
 		while (index > 0) {
 			tree[index] = tree[index] + diff;
 			index /= 2;
@@ -79,6 +80,7 @@ public class P2042_구간합구하기3_세그먼트트리 {
 	// 초기 트리를 구성하는 함수
 	public static void setTree(int i) {
 		while (i != 1) {
+			// 부모 노드에 현재 노드의 값 더하기
 			tree[i / 2] += tree[i];
 			i--;
 		}
