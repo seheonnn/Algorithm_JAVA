@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 public class P11505_구간곱구하기_세그먼트트리 {
 	static long[] tree;
-	static int MOD;
+	static int MOD; // 모듈 연산
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -23,7 +23,7 @@ public class P11505_구간곱구하기_세그먼트트리 {
 		}
 		int treeSize = (int)Math.pow(2, treeHeight + 1);
 		int leftNodeStartIndex = treeSize / 2 - 1;
-		MOD = 1000000007;
+		MOD = 1000000007; // 코딩 테스트의 관습적인 값
 		tree = new long[treeSize + 1];
 		for (int i = 0; i < tree.length; i++) {   //초기 값을 곱셈이기 때문에 1로 설정
 			tree[i] = 1;
