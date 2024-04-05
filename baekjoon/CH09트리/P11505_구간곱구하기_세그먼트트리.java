@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 public class P11505_구간곱구하기_세그먼트트리 {
 	static long[] tree;
-	static int MOD; // 모듈 연산
+	static int MOD; // 모듈러 연산
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
