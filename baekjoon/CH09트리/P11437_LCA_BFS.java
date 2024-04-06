@@ -43,12 +43,12 @@ public class P11437_LCA_BFS {
 			st = new StringTokenizer(br.readLine());
 			int a = Integer.parseInt(st.nextToken());
 			int b = Integer.parseInt(st.nextToken());
-			int LCA = excuteLCA(a, b);
+			int LCA = executeLCA(a, b);
 			System.out.println(LCA);
 		}
 	}
 
-	public static int excuteLCA(int a, int b) {
+	public static int executeLCA(int a, int b) {
 		if (depth[a] < depth[b]) {
 			int temp = a;
 			a = b;
