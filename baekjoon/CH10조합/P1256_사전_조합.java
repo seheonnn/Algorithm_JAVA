@@ -21,7 +21,7 @@ public class P1256_사전_조합 {
 		// 조합 테이블 초기화
 		for (int i = 0; i <= 200; i++) {
 			for (int j = 0; j <= i; j++) {
-				if (j == 0 || j == 1) {
+				if (j == 0 || j == i) {
 					D[i][j] = 1;
 				} else {
 					D[i][j] = D[i - 1][j] + D[i - 1][j - 1];
